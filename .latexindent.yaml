@@ -1,0 +1,6 @@
+defaultIndent: "  "
+onlyOneBackUp: 1
+
+modifyLineBreaks:
+  oneSentencePerLine:
+    manipulateSentences: 1

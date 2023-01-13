@@ -1,0 +1,8 @@
+/.direnv
+result/**
+*.db*
+*.aux
+*.fls
+*.log
+*.out
+*.synctex.gz
