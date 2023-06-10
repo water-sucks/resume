@@ -14,8 +14,9 @@
       perSystem = {pkgs, ...}: {
         devShells.default = pkgs.mkShell {
           buildInputs = with pkgs; [
-            texlive.combined.scheme-medium
-            latexrun
+            typst
+            typst-lsp
+            typst-fmt
           ];
         };
       };
