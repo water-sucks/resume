@@ -73,6 +73,17 @@ appropriate contexts when required.
 
 = Experience
 #exp(
+    "Salt+Light",
+    "Full-Stack Developer",
+    "Remote",
+    "Aug 2023-present",
+    [
+        - Use React Native (Expo) and Firebase to develop a full-stack mobile app
+        - Review pull requests by other contributors
+    ]
+)
+
+#exp(
     "NixOS",
     "Contributor/Package Maintainer",
     "Remote",
@@ -89,11 +100,8 @@ appropriate contexts when required.
     "Fremont, California",
     "Aug 2020-Aug 2022",
     [
-        - Use Flutter to build cross-platform mobile apps for iOS and Android
-        - Plann, design, create, and maintain back ends using Go (Golang)
-        - Implement common architectural patterns (MVVM, MVC, MVCVM)
+        - Use Flutter and Go to build cross-platform mobile apps for iOS and Android
         - Find and patch security vulnerabilities before release
-        - Create and manage effective code review strategies
         - Manage release processes and automate them using CI 
     ]
 )
@@ -106,8 +114,6 @@ appropriate contexts when required.
     [
         - Use Java to maintain a REST API built with Spring Boot
         - Make existing scripts portable to different platforms
-        - Learn about effective version control practices
-        - Gain experience with practical database management
     ]
 )
 
@@ -122,7 +128,7 @@ appropriate contexts when required.
 = Education
 #exp(
     "Ohlone College",
-    "A.S. Computer Science (pending)",
+    "A.S. Computer Science",
     "Fremont, California",
     "Jun 2021-May 2023",
     [],
