@@ -134,9 +134,9 @@ appropriate contexts when required.
     [],
 )
 #exp(
-    "San Francisco",
+    "San Francisco State University",
     "B.S. Computer Science (pending)",
-    "Fremont, California",
+    "San Francisco, California",
     "Aug 2023-May 2025",
     [],
 )
