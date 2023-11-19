@@ -118,7 +118,7 @@ appropriate contexts when required.
 )
 
 = Skills
-*Languages* #h(2fr) Dart/Flutter, Go (Golang), shell, Python, Java, C/C++  \
+*Languages* #h(2fr) TypeScript, Dart/Flutter, Go (Golang), shell, Python, Java, C/C++  \
 *Developer Tools*  #h(2fr) Linux, Git/GitHub, Vim/Neovim, Nix \
 
 = Certifications
