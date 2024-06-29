@@ -60,25 +60,26 @@
         #sym.diamond.filled +1 (510) 857-2505
         #sym.diamond.filled varun\@snare.dev
         #sym.diamond.filled #link("https://github.com/water-sucks", "GitHub")
-        #sym.diamond.filled #link("https://www.linkedin.com/in/varun-narravula-a68725249", "LinkedIn")
+        #sym.diamond.filled #link("https://www.linkedin.com/in/watersucks", "LinkedIn")
         #sym.diamond.filled
     ],)
 )
 
 = Synopsis
-Full-stack developer that loves to code. Seeking an internship or part-time position as a
-full-stack developer or DevOps engineer. Equipped with a diverse skill set in various
-platforms and technologies, and can learn new technology quickly and use it in the
-appropriate contexts when required. 
+A creator at heart that loves to code. Seeking a part-time or contract position as a
+full-stack developer/engineer or DevOps engineer. Equipped with a diverse skill set
+in various platforms and technologies, and can learn new technology quickly and use
+it in the appropriate contexts when required. 
 
 = Experience
 #exp(
     "Salt+Light",
-    "Full-Stack Developer",
-    "Remote",
+    "Software Engineer",
+    "Remote (San Francisco, California)",
     "Aug 2023-present",
     [
-        - Use React Native (Expo) and Firebase to develop a full-stack mobile app
+        - Use React Native (Expo) and Supabase to develop a full-stack mobile app
+        - Create database schemas and port non-relational data to a relational model
         - Review pull requests by other contributors
     ]
 )
@@ -97,7 +98,7 @@ appropriate contexts when required.
 #exp(
     "Zyggit Inc.",
     "Full-Stack Developer",
-    "Fremont, California",
+    "Remote (Fremont, California)",
     "Aug 2020-Aug 2022",
     [
         - Use Flutter and Go to build cross-platform mobile apps for iOS and Android
@@ -106,20 +107,10 @@ appropriate contexts when required.
     ]
 )
 
-#exp(
-    "Clonetab Inc.",
-    "Software Development Intern",
-    "Tracy, California",
-    "Jul 2020-Jun 2021",
-    [
-        - Use Java to maintain a REST API built with Spring Boot
-        - Make existing scripts portable to different platforms
-    ]
-)
-
 = Skills
-*Languages* #h(2fr) TypeScript, Dart/Flutter, Go (Golang), shell, Python, Java, C/C++  \
-*Developer Tools*  #h(2fr) Linux, Git/GitHub, Vim/Neovim, Nix \
+*Languages* #h(2fr) Zig, Go, TypeScript, Dart, shell, SQL, Python, Java, C/C++ \
+*Frameworks* #h(2fr) Flutter, React Native, Expo \
+*Developer Tools*  #h(2fr) Linux, Nix, Vim/Neovim, Supabase, Google Cloud Platform \
 
 = Certifications
 *PCAP - Certified Associate in Python Programming* #h(2fr) _Issued on:_ 11 Jan 2020 \
