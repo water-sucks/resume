@@ -89,7 +89,7 @@ it in the appropriate contexts when required.
   "Salt+Light",
   "Software Engineer",
   "Remote (San Francisco, California)",
-  "Aug 2023-present",
+  "Aug 2023-Aug 2024",
   [
     - Use React Native (Expo) and Supabase to develop a full-stack mobile app
     - Create database schemas and port non-relational data to a relational model
