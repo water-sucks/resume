@@ -78,7 +78,7 @@ it in the appropriate contexts when required.
   "Byggr.ai",
   "Software Engineer",
   "Remote (San Francisco, California)",
-  "Nov 2024-present",
+  "Nov 2024-Jan 2025",
   [
     - Create and maintain a deterministic, AI-powered model that autonomously
       converts abstract business requirements into high-quality code
