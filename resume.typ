@@ -66,10 +66,36 @@
 )
 
 = Synopsis
-A creator at heart that loves to code. Seeking a part-time or contract position as a
-full-stack developer/engineer or DevOps engineer. Equipped with a diverse skill set
-in various platforms and technologies, and can learn new technology quickly and use
-it in the appropriate contexts when required.
+Aspiring, and (sometimes) achieving; a creator at heart that loves to code.
+Seeking a full-time or contract position as a software engineer/developer.
+
+= Projects/Contributions
+#exp(
+  link("https://github.com/water-sucks/nixos", "nixos-cli"),
+  "Core Maintainer",
+  "Go, Nix, Zig",
+  "Aug 2023-present",
+  [
+    - Develop and maintain a command-line interface for deploying and managing NixOS
+      systems with a focus on simplicity and ease of use.
+    - Patch long-standing issues and add new features to older tools from the NixOS
+      ecosystem, improving behavior and user experience for end users (NixOS administrators).
+    - Complete a rewrite of the nixos-cli tool from a prototype in Zig to a more
+      professional and production-ready Go implementation in a matter of weeks.
+    - Write release notes and documentation for end users.
+  ],
+)
+
+#exp(
+  "NixOS",
+  "Contributor/Package Maintainer",
+  "Nix, shell",
+  "Aug 2022-present",
+  [
+    - Maintain Nix packages and modules in #link("https://github.com/nixos/nixpkgs", "nixpkgs") and #link("https://github.com/nix-community/home-manager", "home-manager")
+    - Review pull requests and collaborate with the open-source community
+  ],
+)
 
 = Experience
 #exp(
@@ -89,20 +115,9 @@ it in the appropriate contexts when required.
   "Remote (San Francisco, California)",
   "Aug 2023-Aug 2024",
   [
-    - Use React Native (Expo) and Supabase to develop a full-stack mobile app
-    - Create database schemas and port non-relational data to a relational model
-    - Review pull requests by other contributors
-  ],
-)
-
-#exp(
-  "NixOS",
-  "Contributor/Package Maintainer",
-  "Remote",
-  "Aug 2022-present",
-  [
-    - Create and maintain Nix packages and modules in #link("https://github.com/nixos/nixpkgs", "nixpkgs") repository
-    - Review existing pull requests by other contributors
+    - Build and maintain a full-stack mobile app using React Native (Expo) and Supabase
+    - Design relational database schemas and migrate data from non-relational sources
+    - Review and improve code contributions from other developers
   ],
 )
 
@@ -112,16 +127,19 @@ it in the appropriate contexts when required.
   "Remote (Fremont, California)",
   "Aug 2020-Aug 2022",
   [
-    - Use Flutter and Go to build cross-platform mobile apps for iOS and Android
-    - Find and patch security vulnerabilities before release
-    - Manage release processes and automate them using CI
+    - Developed and maintained scalable backend services in Go,
+      integrating with Flutter frontends for cross-platform mobile applications.
+    - Implemented security best practices in Go-based backend systems, identifying and
+      patching vulnerabilities before release.
+    - Used Terraform to provision and manage infrastructure on Google Cloud Platform,
+      ensuring reliability and scalability for production environments.
   ],
 )
 
 = Skills
-*Languages* #h(2fr) Zig, Go, TypeScript, Dart, shell, SQL, Python, Java, C/C++ \
+*Languages* #h(2fr) Go, Zig, TypeScript, Dart, shell, SQL, Python, Java, C/C++ \
 *Frameworks* #h(2fr) Flutter, React Native, Expo \
-*Developer Tools* #h(2fr) Linux, Nix, Vim/Neovim, Supabase, Google Cloud Platform \
+*Developer Tools* #h(2fr) Linux, Docker, Kubernetes, Nix, Vim/Neovim, GCP, AWS, Terraform
 
 = Certifications
 *PCAP - Certified Associate in Python Programming* #h(2fr) _Issued on:_ 11 Jan 2020 \
