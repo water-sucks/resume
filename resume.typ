@@ -50,9 +50,7 @@
   details
 }
 
-#show link: it => {
-  text(red, it.body)
-}
+#show link: set text(fill: red)
 
 #show: cv.with(
   author: "VARUN NARRAVULA",
