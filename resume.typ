@@ -147,16 +147,17 @@ Seeking a full-time or contract position as a software engineer/developer.
 
 = Education
 #exp(
+  "San Francisco State University",
+  "B.S. Computer Science",
+  "San Francisco, California",
+  "Aug 2023-May 2025",
+  [],
+)
+
+#exp(
   "Ohlone College",
   "A.S. Computer Science",
   "Fremont, California",
   "Jun 2021-May 2023",
-  [],
-)
-#exp(
-  "San Francisco State University",
-  "B.S. Computer Science (pending)",
-  "San Francisco, California",
-  "Aug 2023-May 2025",
   [],
 )
