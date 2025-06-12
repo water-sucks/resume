@@ -99,7 +99,18 @@ Seeking a full-time or contract position as a software engineer/developer.
 
 = Experience
 #exp(
-  "Byggr.ai",
+  link("https://andyl.com", "ANDYL"),
+  "Software Engineer",
+  "San Francisco, California",
+  "Jun 2025-present",
+  [
+    - Rethinking the core systems of the Internet to build a stable foundation for the
+      Internet applications of the 2030s and beyond
+  ],
+)
+
+#exp(
+  link("https://byggr.ai", "Byggr.ai"),
   "Software Engineer",
   "Remote (San Francisco, California)",
   "Nov 2024-Jan 2025",
@@ -110,7 +121,7 @@ Seeking a full-time or contract position as a software engineer/developer.
 )
 
 #exp(
-  "Salt+Light",
+  link("https://seedling.so", "Salt+Light"),
   "Software Engineer",
   "Remote (San Francisco, California)",
   "Aug 2023-Aug 2024",
@@ -120,6 +131,8 @@ Seeking a full-time or contract position as a software engineer/developer.
     - Review and improve code contributions from other developers
   ],
 )
+
+#pagebreak()
 
 #exp(
   "Zyggit Inc.",
