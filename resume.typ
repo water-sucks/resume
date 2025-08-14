@@ -102,7 +102,7 @@ Seeking a full-time or contract position as a software engineer/developer.
   link("https://andyl.com", "ANDYL"),
   "Software Engineer",
   "San Francisco, California",
-  "Jun 2025-present",
+  "Jun 2025-Aug 2025",
   [
     - Rethinking the core systems of the Internet to build a stable foundation for the
       Internet applications of the 2030s and beyond
