@@ -69,6 +69,64 @@
 Aspiring, and (sometimes) achieving; a creator at heart that loves to code.
 Seeking a full-time or contract position as a software engineer/developer.
 
+= Experience
+#exp(
+  link("https://andyl.com", "ANDYL"),
+  "Software Engineer",
+  "San Francisco, California",
+  "Jun 2025-Aug 2025",
+  [
+    - Rethink the core systems of the Internet (such as DNS) to build a stable foundation
+      for the Internet applications of the 2030s and beyond
+    - Use Rust to build a distributed, high-availability, high-volume read
+      database using blockchain principles
+    - Use Nix/NixOS, Kubernetes, and Terraform to orchestrate infrastructure
+      for internal continuous integration (CI) setups
+  ],
+)
+
+#exp(
+  link("https://byggr.ai", "Byggr.ai"),
+  "Software Engineer",
+  "Remote (San Francisco, California)",
+  "Aug 2024-Jan 2025",
+  [
+    - Create and maintain a deterministic, AI-powered model that autonomously
+      converts abstract business requirements into high-quality code
+    - Develop and maintain a desktop interface to interact with this AI interface
+      using Flutter on Windows, macOS, and Linux platforms
+  ],
+)
+
+#exp(
+  link("https://seedling.so", "Salt+Light"),
+  "Software Engineer",
+  "Remote (San Francisco, California)",
+  "Aug 2023-Aug 2024",
+  [
+    - Build and maintain a full-stack mobile app using React Native (Expo) and Supabase
+    - Design relational database schemas and migrate data from non-relational sources
+    - Review and improve code contributions from other developers
+  ],
+)
+
+#exp(
+  "Zyggit Inc.",
+  "Full-Stack Developer",
+  "Remote (Fremont, California)",
+  "Aug 2020-Aug 2022",
+  [
+    - Developed and maintained scalable backend services in Go,
+      integrating with Flutter frontends for cross-platform mobile applications.
+    - Implemented security best practices in Go-based backend systems, identifying and
+      patching vulnerabilities before release.
+    - Used Terraform to provision and manage infrastructure on Google Cloud Platform,
+      ensuring reliability and scalability for production environments.
+  ],
+)
+
+#pagebreak()
+
 = Projects/Contributions
 #exp(
   link("https://github.com/water-sucks/nixos", "nixos-cli"),
@@ -97,60 +155,8 @@ Seeking a full-time or contract position as a software engineer/developer.
   ],
 )
 
-= Experience
-#exp(
-  link("https://andyl.com", "ANDYL"),
-  "Software Engineer",
-  "San Francisco, California",
-  "Jun 2025-Aug 2025",
-  [
-    - Rethinking the core systems of the Internet to build a stable foundation for the
-      Internet applications of the 2030s and beyond
-  ],
-)
-
-#exp(
-  link("https://byggr.ai", "Byggr.ai"),
-  "Software Engineer",
-  "Remote (San Francisco, California)",
-  "Nov 2024-Jan 2025",
-  [
-    - Create and maintain a deterministic, AI-powered model that autonomously
-      converts abstract business requirements into high-quality code
-  ],
-)
-
-#exp(
-  link("https://seedling.so", "Salt+Light"),
-  "Software Engineer",
-  "Remote (San Francisco, California)",
-  "Aug 2023-Aug 2024",
-  [
-    - Build and maintain a full-stack mobile app using React Native (Expo) and Supabase
-    - Design relational database schemas and migrate data from non-relational sources
-    - Review and improve code contributions from other developers
-  ],
-)
-
-#pagebreak()
-
-#exp(
-  "Zyggit Inc.",
-  "Full-Stack Developer",
-  "Remote (Fremont, California)",
-  "Aug 2020-Aug 2022",
-  [
-    - Developed and maintained scalable backend services in Go,
-      integrating with Flutter frontends for cross-platform mobile applications.
-    - Implemented security best practices in Go-based backend systems, identifying and
-      patching vulnerabilities before release.
-    - Used Terraform to provision and manage infrastructure on Google Cloud Platform,
-      ensuring reliability and scalability for production environments.
-  ],
-)
-
 = Skills
-*Languages* #h(2fr) Go, Zig, TypeScript, Dart, shell, SQL, Python, Java, C/C++ \
+*Languages* #h(2fr) Go, Zig, TypeScript, Rust, Dart, shell, SQL, Python, Java, C/C++ \
 *Frameworks* #h(2fr) Flutter, React Native, Expo \
 *Developer Tools* #h(2fr) Linux, Docker, Kubernetes, Nix, Vim/Neovim, GCP, AWS, Terraform
 
