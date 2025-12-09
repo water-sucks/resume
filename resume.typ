@@ -74,12 +74,11 @@ Seeking a full-time or contract position as a software engineer/developer.
   link("https://andyl.com", "ANDYL"),
   "Software Engineer",
   "San Francisco, California",
-  "Jun 2025-Aug 2025",
+  "Jun 2025-Dec 2025",
   [
     - Rethink the core systems of the Internet (such as DNS) to build a stable foundation
       for the Internet applications of the 2030s and beyond
-    - Use Rust to build a distributed, high-availability, high-volume read
-      database using blockchain principles
+    - Use Rust to build a distributed, high-availability database using blockchain principles
     - Use Nix/NixOS, Kubernetes, and Terraform to orchestrate infrastructure
       for internal continuous integration (CI) setups
   ],
@@ -89,7 +88,7 @@ Seeking a full-time or contract position as a software engineer/developer.
   link("https://byggr.ai", "Byggr.ai"),
   "Software Engineer",
   "Remote (San Francisco, California)",
-  "Aug 2024-Jan 2025",
+  "Aug 2024-Jun 2025",
   [
     - Create and maintain a deterministic, AI-powered model that autonomously
       converts abstract business requirements into high-quality code
@@ -99,13 +98,14 @@ Seeking a full-time or contract position as a software engineer/developer.
 )
 
 #exp(
-  link("https://seedling.so", "Salt+Light"),
+  link("https://seedling.so", "Seedling"),
   "Software Engineer",
   "Remote (San Francisco, California)",
   "Aug 2023-Aug 2024",
   [
     - Build and maintain a full-stack mobile app using React Native (Expo) and Supabase
-    - Design relational database schemas and migrate data from non-relational sources
+    - Design relational database schemas and migrate data from non-relational sources such as Firebase
+      to relational ones like PostgreSQL using Python scripts
     - Review and improve code contributions from other developers
   ],
 )
