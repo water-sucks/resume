@@ -71,6 +71,21 @@ Seeking a full-time or contract position as a software engineer/developer.
 
 = Experience
 #exp(
+  link("https://pangolin.net", "Pangolin"),
+  "Founding Software Engineer",
+  "San Francisco, California",
+  "Dec 2025-present",
+  [
+    - Build and maintain secure reverse-tunneling and zero-trust networking components
+      using Go
+    - Build and maintain a web UI surrounding these components using TypeScript
+      (`Next.js`)
+    - Engage with the open-source community on GitHub/Discord to support users, review
+      contributions, and drive adoption.
+  ],
+)
+
+#exp(
   link("https://andyl.com", "ANDYL"),
   "Software Engineer",
   "San Francisco, California",
